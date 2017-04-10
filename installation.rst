@@ -20,4 +20,8 @@ Installation
 
 5. Run::
 
-	$ skyring-password-reset 
+	$ skyring-password-reset
+
+6. Restart skyring server::
+
+ 	$  service skyring restart
